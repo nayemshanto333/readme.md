@@ -80,7 +80,7 @@ Skills: PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <div align="center">
 <br/>
-<!--<a href="https://www.linkedin.com/in/harun181/" target="_blank">
+<!--<a href="https://www.linkedin.com/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a> -->
 <a href="https://www.facebook.com/md.nayem.shanto.71" target="_blank">
